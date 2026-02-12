@@ -9,7 +9,7 @@ Analisador jurídico inteligente que detecta cláusulas críticas em contratos e
 
 > **LegalLens** é um sistema de análise jurídica inteligente que detecta cláusulas críticas em contratos e documentos legais usando técnicas avançadas de processamento de linguagem natural. 100% open-source, otimizado para CPU e funcionando 24/7 no Hugging Face Spaces.
 
-![LegalLens Demo](https://github.com/seu-usuario/legallens/raw/main/demo.gif)
+https://huggingface.co/spaces/Danielfonseca1212/RAGleis
 
 ## 🚀 Funcionalidades
 
@@ -43,7 +43,7 @@ Analisador jurídico inteligente que detecta cláusulas críticas em contratos e
 ## 🚀 Como Usar
 
 ### Demo Online (Recomendado)
-Acesse o [demo funcional no Hugging Face Spaces](https://huggingface.co/spaces/seu-usuario/legallens) e comece a analisar documentos imediatamente!
+Acesse o https://huggingface.co/spaces/Danielfonseca1212/RAGleis e comece a analisar documentos imediatamente!
 
 ### Executar Localmente
 
