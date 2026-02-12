@@ -1,0 +1,5 @@
+gradio>=4.0.0
+transformadores de sentença>=2.2.0
+faiss-CPU>=1.7.0
+numpy>=1.24.0
+PyPDF2>=3.0.0
